@@ -1,0 +1,7 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Release\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Release\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Release\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Release\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Release\FinancialEngineering.Data.ServiceContract.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Release\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Release\FinancialEngineering.Data.ServiceContract.pdb

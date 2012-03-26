@@ -1,0 +1,7 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Release\FinancialEngineering.IndexCalculation.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Release\FinancialEngineering.IndexCalculation.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Release\FinancialEngineering.IndexCalculation.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Release\FinancialEngineering.IndexCalculation.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Release\FinancialEngineering.IndexCalculation.Test.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Release\FinancialEngineering.IndexCalculation.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Release\FinancialEngineering.IndexCalculation.Test.pdb

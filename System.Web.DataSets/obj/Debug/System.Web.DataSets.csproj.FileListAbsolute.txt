@@ -1,0 +1,7 @@
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\bin\Debug\System.Web.DataSets.dll.config
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\bin\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\bin\Debug\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\bin\Debug\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\obj\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets\obj\Debug\System.Web.DataSets.pdb

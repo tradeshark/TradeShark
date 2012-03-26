@@ -1,0 +1,4 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\bin\Debug\FinancialEngineering.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\bin\Debug\FinancialEngineering.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\obj\Debug\FinancialEngineering.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\obj\Debug\FinancialEngineering.Common.pdb

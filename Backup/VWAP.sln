@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VWAP", "VWAP.csproj", "{E1272168-0608-41CB-B65F-CA677D48566B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVWAP", "..\TestVWAP\TestVWAP.csproj", "{5F310854-22B1-40BE-AF35-22FDCA34F3EE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E1272168-0608-41CB-B65F-CA677D48566B}.Debug.ActiveCfg = Debug|.NET
+		{E1272168-0608-41CB-B65F-CA677D48566B}.Debug.Build.0 = Debug|.NET
+		{E1272168-0608-41CB-B65F-CA677D48566B}.Release.ActiveCfg = Release|.NET
+		{E1272168-0608-41CB-B65F-CA677D48566B}.Release.Build.0 = Release|.NET
+		{5F310854-22B1-40BE-AF35-22FDCA34F3EE}.Debug.ActiveCfg = Debug|.NET
+		{5F310854-22B1-40BE-AF35-22FDCA34F3EE}.Debug.Build.0 = Debug|.NET
+		{5F310854-22B1-40BE-AF35-22FDCA34F3EE}.Release.ActiveCfg = Release|.NET
+		{5F310854-22B1-40BE-AF35-22FDCA34F3EE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Storage.dll.config
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Storage.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Storage.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\bin\Release\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\obj\Release\FinancialEngineering.BackTesting.Storage.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\obj\Release\FinancialEngineering.BackTesting.Storage.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Storage\obj\Release\FinancialEngineering.BackTesting.Storage.pdb

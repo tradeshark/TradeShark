@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VWAP">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Downloads\VWAP\VWAP\VWAP.sln">
+</Property><Property Name="Date" Value="2012年2月16日">
+</Property><Property Name="Time" Value="13:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VWAP.sln" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\VWAP.sln">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="VWAP.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\VWAP.csproj">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="VWAP.csproj.user" Description="Project user file successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\VWAP.csproj.user">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="TimeSeries.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TimeSeries.cs">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="VWAP.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\VWAP.cs">
+</Event><Event ErrorLevel="1" Project="VWAP" Source="VWAP.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="VWAP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VWAP" Source="VWAP.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\TestVWAP.csproj">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj.user" Description="Project user file successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\TestVWAP.csproj.user">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\CVSReader.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\CVSReader.cs">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\frmTestVWAP.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\frmTestVWAP.cs">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\App.ico" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\App.ico">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\README.txt" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\README.txt">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\vwap1.gif" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\vwap1.gif">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\frmTestVWAP.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\VWAP\VWAP\Backup\TestVWAP\frmTestVWAP.resx">
+</Event><Event ErrorLevel="1" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VWAP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VWAP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VWAP" Source="VWAP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestVWAP" Source="..\TestVWAP\TestVWAP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

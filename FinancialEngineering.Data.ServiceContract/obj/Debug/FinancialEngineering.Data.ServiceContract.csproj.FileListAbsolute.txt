@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.csprojResolveAssemblyReference.cache

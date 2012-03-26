@@ -1,0 +1,4 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Release\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Release\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Release\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Release\FinancialEngineering.Model.pdb

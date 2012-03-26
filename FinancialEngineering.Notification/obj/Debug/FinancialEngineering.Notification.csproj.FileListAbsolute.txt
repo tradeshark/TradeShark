@@ -1,0 +1,4 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Notification\bin\Debug\FinancialEngineering.Notification.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Notification\bin\Debug\FinancialEngineering.Notification.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Notification\obj\Debug\FinancialEngineering.Notification.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Notification\obj\Debug\FinancialEngineering.Notification.pdb

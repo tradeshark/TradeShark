@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\obj\Debug\FinancialEngineering.IndexCalculation.Test.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.IndexCalculation.MA\obj\Debug\FinancialEngineering.IndexCalculation.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Debug\FinancialEngineering.IndexCalculation.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Debug\FinancialEngineering.IndexCalculation.Test.pdb

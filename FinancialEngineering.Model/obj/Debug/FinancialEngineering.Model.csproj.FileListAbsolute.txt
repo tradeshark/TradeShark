@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.pdb

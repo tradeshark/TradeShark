@@ -1,0 +1,4 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\bin\Release\FinancialEngineering.BackTesting.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\bin\Release\FinancialEngineering.BackTesting.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\obj\Release\FinancialEngineering.BackTesting.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\obj\Release\FinancialEngineering.BackTesting.Model.pdb

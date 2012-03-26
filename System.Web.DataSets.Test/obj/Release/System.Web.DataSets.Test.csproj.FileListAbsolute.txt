@@ -1,0 +1,10 @@
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\System.Web.DataSets.Test.dll.config
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\System.Web.DataSets.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\System.Web.DataSets.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Release\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\obj\Release\System.Web.DataSets.Test.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\obj\Release\System.Web.DataSets.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\obj\Release\System.Web.DataSets.Test.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Service.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Service.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.External\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.External\obj\Debug\FinancialEngineering.Service.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\FinancialEngineering.Data.External\obj\Debug\FinancialEngineering.Service.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Service.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Service.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\obj\Debug\FinancialEngineering.Service.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\obj\Debug\FinancialEngineering.Service.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\obj\Debug\FinancialEngineering.Data.External.csprojResolveAssemblyReference.cache

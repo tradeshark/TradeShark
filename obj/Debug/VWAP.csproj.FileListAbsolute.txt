@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\VWAP\VWAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\VWAP\VWAP\bin\Debug\VWAP.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\bin\Debug\VWAP.pdb
+C:\Users\Administrator\Downloads\VWAP\VWAP\obj\Debug\VWAP.dll
+C:\Users\Administrator\Downloads\VWAP\VWAP\obj\Debug\VWAP.pdb

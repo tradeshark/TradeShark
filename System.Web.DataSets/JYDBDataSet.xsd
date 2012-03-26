@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="JYDBDataSet" targetNamespace="http://tempuri.org/JYDBDataSet.xsd" xmlns:mstns="http://tempuri.org/JYDBDataSet.xsd" xmlns="http://tempuri.org/JYDBDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="JYDB" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="JYDB (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.System.Web.DataSets.Properties.Settings.GlobalReference.Default.JYDB" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="QT_TradingDayNewTableAdapter" GeneratorDataComponentClassName="QT_TradingDayNewTableAdapter" Name="QT_TradingDayNew" UserDataComponentName="QT_TradingDayNewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="JYDB (Settings)" DbObjectName="JYDB.dbo.QT_TradingDayNew" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   ID, TradingDate, IfTradingDay, SecuMarket, IfWeekEnd, IfMonthEnd, IfQuarterEnd, IfYearEnd, XGRQ, JSID
+FROM      QT_TradingDayNew</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="TradingDate" DataSetColumn="TradingDate" />
+              <Mapping SourceColumn="IfTradingDay" DataSetColumn="IfTradingDay" />
+              <Mapping SourceColumn="SecuMarket" DataSetColumn="SecuMarket" />
+              <Mapping SourceColumn="IfWeekEnd" DataSetColumn="IfWeekEnd" />
+              <Mapping SourceColumn="IfMonthEnd" DataSetColumn="IfMonthEnd" />
+              <Mapping SourceColumn="IfQuarterEnd" DataSetColumn="IfQuarterEnd" />
+              <Mapping SourceColumn="IfYearEnd" DataSetColumn="IfYearEnd" />
+              <Mapping SourceColumn="XGRQ" DataSetColumn="XGRQ" />
+              <Mapping SourceColumn="JSID" DataSetColumn="JSID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SecuMainTableAdapter" GeneratorDataComponentClassName="SecuMainTableAdapter" Name="SecuMain" UserDataComponentName="SecuMainTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="JYDB (Settings)" DbObjectName="JYDB.dbo.SecuMain" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   ID, InnerCode, CompanyCode, SecuCode, ChiName, ChiNameAbbr, EngName, EngNameAbbr, SecuAbbr, ChiSpelling, 
+                SecuMarket, SecuCategory, ListedDate, ListedSector, ListedState, XGRQ, JSID, ISIN
+FROM      SecuMain</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="InnerCode" DataSetColumn="InnerCode" />
+              <Mapping SourceColumn="CompanyCode" DataSetColumn="CompanyCode" />
+              <Mapping SourceColumn="SecuCode" DataSetColumn="SecuCode" />
+              <Mapping SourceColumn="ChiName" DataSetColumn="ChiName" />
+              <Mapping SourceColumn="ChiNameAbbr" DataSetColumn="ChiNameAbbr" />
+              <Mapping SourceColumn="EngName" DataSetColumn="EngName" />
+              <Mapping SourceColumn="EngNameAbbr" DataSetColumn="EngNameAbbr" />
+              <Mapping SourceColumn="SecuAbbr" DataSetColumn="SecuAbbr" />
+              <Mapping SourceColumn="ChiSpelling" DataSetColumn="ChiSpelling" />
+              <Mapping SourceColumn="SecuMarket" DataSetColumn="SecuMarket" />
+              <Mapping SourceColumn="SecuCategory" DataSetColumn="SecuCategory" />
+              <Mapping SourceColumn="ListedDate" DataSetColumn="ListedDate" />
+              <Mapping SourceColumn="ListedSector" DataSetColumn="ListedSector" />
+              <Mapping SourceColumn="ListedState" DataSetColumn="ListedState" />
+              <Mapping SourceColumn="XGRQ" DataSetColumn="XGRQ" />
+              <Mapping SourceColumn="JSID" DataSetColumn="JSID" />
+              <Mapping SourceColumn="ISIN" DataSetColumn="ISIN" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="QT_AdjustingFactorTableAdapter" GeneratorDataComponentClassName="QT_AdjustingFactorTableAdapter" Name="QT_AdjustingFactor" UserDataComponentName="QT_AdjustingFactorTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="JYDB (Settings)" DbObjectName="JYDB.dbo.QT_AdjustingFactor" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   ID, ExDiviDate, InnerCode, AdjustingFactor, AdjustingConst, RatioAdjustingFactor, XGRQ, JSID
+FROM      QT_AdjustingFactor</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="ExDiviDate" DataSetColumn="ExDiviDate" />
+              <Mapping SourceColumn="InnerCode" DataSetColumn="InnerCode" />
+              <Mapping SourceColumn="AdjustingFactor" DataSetColumn="AdjustingFactor" />
+              <Mapping SourceColumn="AdjustingConst" DataSetColumn="AdjustingConst" />
+              <Mapping SourceColumn="RatioAdjustingFactor" DataSetColumn="RatioAdjustingFactor" />
+              <Mapping SourceColumn="XGRQ" DataSetColumn="XGRQ" />
+              <Mapping SourceColumn="JSID" DataSetColumn="JSID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="JYDBDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="JYDBDataSet" msprop:Generator_UserDSName="JYDBDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="QT_TradingDayNew" msprop:Generator_TableClassName="QT_TradingDayNewDataTable" msprop:Generator_TableVarName="tableQT_TradingDayNew" msprop:Generator_RowChangedName="QT_TradingDayNewRowChanged" msprop:Generator_TablePropName="QT_TradingDayNew" msprop:Generator_RowDeletingName="QT_TradingDayNewRowDeleting" msprop:Generator_RowChangingName="QT_TradingDayNewRowChanging" msprop:Generator_RowEvHandlerName="QT_TradingDayNewRowChangeEventHandler" msprop:Generator_RowDeletedName="QT_TradingDayNewRowDeleted" msprop:Generator_RowClassName="QT_TradingDayNewRow" msprop:Generator_UserTableName="QT_TradingDayNew" msprop:Generator_RowEvArgName="QT_TradingDayNewRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:long" />
+              <xs:element name="TradingDate" msprop:Generator_ColumnVarNameInTable="columnTradingDate" msprop:Generator_ColumnPropNameInRow="TradingDate" msprop:Generator_ColumnPropNameInTable="TradingDateColumn" msprop:Generator_UserColumnName="TradingDate" type="xs:dateTime" />
+              <xs:element name="IfTradingDay" msprop:Generator_ColumnVarNameInTable="columnIfTradingDay" msprop:Generator_ColumnPropNameInRow="IfTradingDay" msprop:Generator_ColumnPropNameInTable="IfTradingDayColumn" msprop:Generator_UserColumnName="IfTradingDay" type="xs:int" minOccurs="0" />
+              <xs:element name="SecuMarket" msprop:Generator_ColumnVarNameInTable="columnSecuMarket" msprop:Generator_ColumnPropNameInRow="SecuMarket" msprop:Generator_ColumnPropNameInTable="SecuMarketColumn" msprop:Generator_UserColumnName="SecuMarket" type="xs:int" minOccurs="0" />
+              <xs:element name="IfWeekEnd" msprop:Generator_ColumnVarNameInTable="columnIfWeekEnd" msprop:Generator_ColumnPropNameInRow="IfWeekEnd" msprop:Generator_ColumnPropNameInTable="IfWeekEndColumn" msprop:Generator_UserColumnName="IfWeekEnd" type="xs:int" minOccurs="0" />
+              <xs:element name="IfMonthEnd" msprop:Generator_ColumnVarNameInTable="columnIfMonthEnd" msprop:Generator_ColumnPropNameInRow="IfMonthEnd" msprop:Generator_ColumnPropNameInTable="IfMonthEndColumn" msprop:Generator_UserColumnName="IfMonthEnd" type="xs:int" minOccurs="0" />
+              <xs:element name="IfQuarterEnd" msprop:Generator_ColumnVarNameInTable="columnIfQuarterEnd" msprop:Generator_ColumnPropNameInRow="IfQuarterEnd" msprop:Generator_ColumnPropNameInTable="IfQuarterEndColumn" msprop:Generator_UserColumnName="IfQuarterEnd" type="xs:int" minOccurs="0" />
+              <xs:element name="IfYearEnd" msprop:Generator_ColumnVarNameInTable="columnIfYearEnd" msprop:Generator_ColumnPropNameInRow="IfYearEnd" msprop:Generator_ColumnPropNameInTable="IfYearEndColumn" msprop:Generator_UserColumnName="IfYearEnd" type="xs:int" minOccurs="0" />
+              <xs:element name="XGRQ" msprop:Generator_ColumnVarNameInTable="columnXGRQ" msprop:Generator_ColumnPropNameInRow="XGRQ" msprop:Generator_ColumnPropNameInTable="XGRQColumn" msprop:Generator_UserColumnName="XGRQ" type="xs:dateTime" />
+              <xs:element name="JSID" msprop:Generator_ColumnVarNameInTable="columnJSID" msprop:Generator_ColumnPropNameInRow="JSID" msprop:Generator_ColumnPropNameInTable="JSIDColumn" msprop:Generator_UserColumnName="JSID" type="xs:long" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SecuMain" msprop:Generator_TableClassName="SecuMainDataTable" msprop:Generator_TableVarName="tableSecuMain" msprop:Generator_TablePropName="SecuMain" msprop:Generator_RowDeletingName="SecuMainRowDeleting" msprop:Generator_RowChangingName="SecuMainRowChanging" msprop:Generator_RowEvHandlerName="SecuMainRowChangeEventHandler" msprop:Generator_RowDeletedName="SecuMainRowDeleted" msprop:Generator_UserTableName="SecuMain" msprop:Generator_RowChangedName="SecuMainRowChanged" msprop:Generator_RowEvArgName="SecuMainRowChangeEvent" msprop:Generator_RowClassName="SecuMainRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:long" />
+              <xs:element name="InnerCode" msprop:Generator_ColumnVarNameInTable="columnInnerCode" msprop:Generator_ColumnPropNameInRow="InnerCode" msprop:Generator_ColumnPropNameInTable="InnerCodeColumn" msprop:Generator_UserColumnName="InnerCode" type="xs:int" />
+              <xs:element name="CompanyCode" msprop:Generator_ColumnVarNameInTable="columnCompanyCode" msprop:Generator_ColumnPropNameInRow="CompanyCode" msprop:Generator_ColumnPropNameInTable="CompanyCodeColumn" msprop:Generator_UserColumnName="CompanyCode" type="xs:int" minOccurs="0" />
+              <xs:element name="SecuCode" msprop:Generator_ColumnVarNameInTable="columnSecuCode" msprop:Generator_ColumnPropNameInRow="SecuCode" msprop:Generator_ColumnPropNameInTable="SecuCodeColumn" msprop:Generator_UserColumnName="SecuCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ChiName" msprop:Generator_ColumnVarNameInTable="columnChiName" msprop:Generator_ColumnPropNameInRow="ChiName" msprop:Generator_ColumnPropNameInTable="ChiNameColumn" msprop:Generator_UserColumnName="ChiName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ChiNameAbbr" msprop:Generator_ColumnVarNameInTable="columnChiNameAbbr" msprop:Generator_ColumnPropNameInRow="ChiNameAbbr" msprop:Generator_ColumnPropNameInTable="ChiNameAbbrColumn" msprop:Generator_UserColumnName="ChiNameAbbr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EngName" msprop:Generator_ColumnVarNameInTable="columnEngName" msprop:Generator_ColumnPropNameInRow="EngName" msprop:Generator_ColumnPropNameInTable="EngNameColumn" msprop:Generator_UserColumnName="EngName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EngNameAbbr" msprop:Generator_ColumnVarNameInTable="columnEngNameAbbr" msprop:Generator_ColumnPropNameInRow="EngNameAbbr" msprop:Generator_ColumnPropNameInTable="EngNameAbbrColumn" msprop:Generator_UserColumnName="EngNameAbbr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SecuAbbr" msprop:Generator_ColumnVarNameInTable="columnSecuAbbr" msprop:Generator_ColumnPropNameInRow="SecuAbbr" msprop:Generator_ColumnPropNameInTable="SecuAbbrColumn" msprop:Generator_UserColumnName="SecuAbbr" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ChiSpelling" msprop:Generator_ColumnVarNameInTable="columnChiSpelling" msprop:Generator_ColumnPropNameInRow="ChiSpelling" msprop:Generator_ColumnPropNameInTable="ChiSpellingColumn" msprop:Generator_UserColumnName="ChiSpelling" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SecuMarket" msprop:Generator_ColumnVarNameInTable="columnSecuMarket" msprop:Generator_ColumnPropNameInRow="SecuMarket" msprop:Generator_ColumnPropNameInTable="SecuMarketColumn" msprop:Generator_UserColumnName="SecuMarket" type="xs:int" minOccurs="0" />
+              <xs:element name="SecuCategory" msprop:Generator_ColumnVarNameInTable="columnSecuCategory" msprop:Generator_ColumnPropNameInRow="SecuCategory" msprop:Generator_ColumnPropNameInTable="SecuCategoryColumn" msprop:Generator_UserColumnName="SecuCategory" type="xs:int" minOccurs="0" />
+              <xs:element name="ListedDate" msprop:Generator_ColumnVarNameInTable="columnListedDate" msprop:Generator_ColumnPropNameInRow="ListedDate" msprop:Generator_ColumnPropNameInTable="ListedDateColumn" msprop:Generator_UserColumnName="ListedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ListedSector" msprop:Generator_ColumnVarNameInTable="columnListedSector" msprop:Generator_ColumnPropNameInRow="ListedSector" msprop:Generator_ColumnPropNameInTable="ListedSectorColumn" msprop:Generator_UserColumnName="ListedSector" type="xs:int" minOccurs="0" />
+              <xs:element name="ListedState" msprop:Generator_ColumnVarNameInTable="columnListedState" msprop:Generator_ColumnPropNameInRow="ListedState" msprop:Generator_ColumnPropNameInTable="ListedStateColumn" msprop:Generator_UserColumnName="ListedState" type="xs:int" minOccurs="0" />
+              <xs:element name="XGRQ" msprop:Generator_ColumnVarNameInTable="columnXGRQ" msprop:Generator_ColumnPropNameInRow="XGRQ" msprop:Generator_ColumnPropNameInTable="XGRQColumn" msprop:Generator_UserColumnName="XGRQ" type="xs:dateTime" />
+              <xs:element name="JSID" msprop:Generator_ColumnVarNameInTable="columnJSID" msprop:Generator_ColumnPropNameInRow="JSID" msprop:Generator_ColumnPropNameInTable="JSIDColumn" msprop:Generator_UserColumnName="JSID" type="xs:long" />
+              <xs:element name="ISIN" msprop:Generator_ColumnVarNameInTable="columnISIN" msprop:Generator_ColumnPropNameInRow="ISIN" msprop:Generator_ColumnPropNameInTable="ISINColumn" msprop:Generator_UserColumnName="ISIN" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="QT_AdjustingFactor" msprop:Generator_TableClassName="QT_AdjustingFactorDataTable" msprop:Generator_TableVarName="tableQT_AdjustingFactor" msprop:Generator_TablePropName="QT_AdjustingFactor" msprop:Generator_RowDeletingName="QT_AdjustingFactorRowDeleting" msprop:Generator_RowChangingName="QT_AdjustingFactorRowChanging" msprop:Generator_RowEvHandlerName="QT_AdjustingFactorRowChangeEventHandler" msprop:Generator_RowDeletedName="QT_AdjustingFactorRowDeleted" msprop:Generator_UserTableName="QT_AdjustingFactor" msprop:Generator_RowChangedName="QT_AdjustingFactorRowChanged" msprop:Generator_RowEvArgName="QT_AdjustingFactorRowChangeEvent" msprop:Generator_RowClassName="QT_AdjustingFactorRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:long" />
+              <xs:element name="ExDiviDate" msprop:Generator_ColumnVarNameInTable="columnExDiviDate" msprop:Generator_ColumnPropNameInRow="ExDiviDate" msprop:Generator_ColumnPropNameInTable="ExDiviDateColumn" msprop:Generator_UserColumnName="ExDiviDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="InnerCode" msprop:Generator_ColumnVarNameInTable="columnInnerCode" msprop:Generator_ColumnPropNameInRow="InnerCode" msprop:Generator_ColumnPropNameInTable="InnerCodeColumn" msprop:Generator_UserColumnName="InnerCode" type="xs:int" minOccurs="0" />
+              <xs:element name="AdjustingFactor" msprop:Generator_ColumnVarNameInTable="columnAdjustingFactor" msprop:Generator_ColumnPropNameInRow="AdjustingFactor" msprop:Generator_ColumnPropNameInTable="AdjustingFactorColumn" msprop:Generator_UserColumnName="AdjustingFactor" type="xs:double" minOccurs="0" />
+              <xs:element name="AdjustingConst" msprop:Generator_ColumnVarNameInTable="columnAdjustingConst" msprop:Generator_ColumnPropNameInRow="AdjustingConst" msprop:Generator_ColumnPropNameInTable="AdjustingConstColumn" msprop:Generator_UserColumnName="AdjustingConst" type="xs:double" minOccurs="0" />
+              <xs:element name="RatioAdjustingFactor" msprop:Generator_ColumnVarNameInTable="columnRatioAdjustingFactor" msprop:Generator_ColumnPropNameInRow="RatioAdjustingFactor" msprop:Generator_ColumnPropNameInTable="RatioAdjustingFactorColumn" msprop:Generator_UserColumnName="RatioAdjustingFactor" type="xs:double" minOccurs="0" />
+              <xs:element name="XGRQ" msprop:Generator_ColumnVarNameInTable="columnXGRQ" msprop:Generator_ColumnPropNameInRow="XGRQ" msprop:Generator_ColumnPropNameInTable="XGRQColumn" msprop:Generator_UserColumnName="XGRQ" type="xs:dateTime" />
+              <xs:element name="JSID" msprop:Generator_ColumnVarNameInTable="columnJSID" msprop:Generator_ColumnPropNameInRow="JSID" msprop:Generator_ColumnPropNameInTable="JSIDColumn" msprop:Generator_UserColumnName="JSID" type="xs:long" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SecuMain" />
+      <xs:field xpath="mstns:InnerCode" />
+    </xs:unique>
+    <xs:unique name="QT_AdjustingFactor_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:QT_AdjustingFactor" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

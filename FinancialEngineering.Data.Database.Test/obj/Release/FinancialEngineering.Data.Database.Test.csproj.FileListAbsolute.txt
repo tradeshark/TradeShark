@@ -1,0 +1,14 @@
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.Test.dll.config
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\bin\Release\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\obj\Release\FinancialEngineering.Data.Database.Test.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\obj\Release\FinancialEngineering.Data.Database.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.Database.Test\obj\Release\FinancialEngineering.Data.Database.Test.pdb

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<VSPerformanceSession Version="1.00">
+  <Options>
+    <Solution>D:\Herui_hx\PROJECT\TradeShark\TradeShark.sln</Solution>
+    <CollectionMethod>Sampling</CollectionMethod>
+    <AllocationMethod>Allocation</AllocationMethod>
+    <LaunchRuntimeControl>true</LaunchRuntimeControl>
+    <AddReport>true</AddReport>
+    <ResourceBasedAnalysisSelected>false</ResourceBasedAnalysisSelected>
+    <ThreadBasedAnalysisSelected>false</ThreadBasedAnalysisSelected>
+    <UniqueReport>Timestamp</UniqueReport>
+    <SamplingMethod>Cycles</SamplingMethod>
+    <CycleCount>10000000</CycleCount>
+    <PageFaultCount>10</PageFaultCount>
+    <SysCallCount>10</SysCallCount>
+    <SamplingCounter Name="" ReloadValue="00000000000f4240" DisplayName="" />
+    <RelocateBinaries>false</RelocateBinaries>
+    <CollectOnHpcCluster>false</CollectOnHpcCluster>
+    <HPCSettings>
+      <NumberOfProcesses>0</NumberOfProcesses>
+      <TargetSelection>UnknownDisabled</TargetSelection>
+      <ProfileOnRank>0</ProfileOnRank>
+      <AdvancedProperties>
+        <Project>GetStockPriceTest</Project>
+        <CleanUp>true</CleanUp>
+        <MpiexecCommand>mpiexec.exe</MpiexecCommand>
+        <DeployCRT>true</DeployCRT>
+      </AdvancedProperties>
+    </HPCSettings>
+    <HardwareCounters EnableHWCounters="false" />
+    <EtwSettings />
+    <PdhSettings>
+      <PdhCountersEnabled>false</PdhCountersEnabled>
+      <PdhCountersRate>500</PdhCountersRate>
+      <PdhCounters>
+        <PdhCounter>\Memory\Pages/sec</PdhCounter>
+        <PdhCounter>\PhysicalDisk(_Total)\Avg. Disk Queue Length</PdhCounter>
+        <PdhCounter>\Processor(_Total)\% Processor Time</PdhCounter>
+      </PdhCounters>
+    </PdhSettings>
+  </Options>
+  <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+  <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+  <PreinstrumentEvent>
+    <InstrEventExclude>false</InstrEventExclude>
+  </PreinstrumentEvent>
+  <PostinstrumentEvent>
+    <InstrEventExclude>false</InstrEventExclude>
+  </PostinstrumentEvent>
+  <Binaries>
+    <TestBinary>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External.Test\obj\Release\FinancialEngineering.Data.External.Test.dll</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>false</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Test</LaunchMethod>
+      <StartupDirectory>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External.Test\bin\Release\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{7C2F84B0-E598-4161-BD57-F8EE4D874BFE}|FinancialEngineering.Data.External.Test\FinancialEngineering.Data.External.Test.csproj</ProjRef>
+      <ProjPath>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External.Test\FinancialEngineering.Data.External.Test.csproj</ProjPath>
+      <ProjName>GetStockPriceTest</ProjName>
+      <TestId>{b9732ad7-3d4b-88c2-1646-3162b1da1c0d}</TestId>
+      <TestName>GetStockPriceTest</TestName>
+    </TestBinary>
+    <ProjBinary>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\obj\Release\FinancialEngineering.Service.dll</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>true</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Executable</LaunchMethod>
+      <StartupDirectory>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\bin\Release\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{4870349A-65B7-4E48-92DA-FC1CD9633765}|FinancialEngineering.Data.External\FinancialEngineering.Data.External.csproj</ProjRef>
+      <ProjPath>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.External\FinancialEngineering.Data.External.csproj</ProjPath>
+      <ProjName>FinancialEngineering.Data.External</ProjName>
+    </ProjBinary>
+    <ProjBinary>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\obj\Release\FinancialEngineering.Common.dll</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>true</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Executable</LaunchMethod>
+      <StartupDirectory>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\bin\Release\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{033CD4D8-B8BC-457B-ADD9-6A4662A8C391}|FinancialEngineering.Common\FinancialEngineering.Common.csproj</ProjRef>
+      <ProjPath>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Common\FinancialEngineering.Common.csproj</ProjPath>
+      <ProjName>FinancialEngineering.Common</ProjName>
+    </ProjBinary>
+    <ProjBinary>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Release\FinancialEngineering.Data.ServiceContract.dll</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>true</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Executable</LaunchMethod>
+      <StartupDirectory>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Release\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{FA83D313-C41A-4AD7-A2EF-ED7F2FD59792}|FinancialEngineering.Data.ServiceContract\FinancialEngineering.Data.ServiceContract.csproj</ProjRef>
+      <ProjPath>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\FinancialEngineering.Data.ServiceContract.csproj</ProjPath>
+      <ProjName>FinancialEngineering.Data.ServiceContract</ProjName>
+    </ProjBinary>
+    <ProjBinary>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Release\FinancialEngineering.Model.dll</Path>
+      <ArgumentTimestamp>01/01/0001 00:00:00</ArgumentTimestamp>
+      <Instrument>true</Instrument>
+      <Sample>true</Sample>
+      <ExternalWebsite>false</ExternalWebsite>
+      <InteractionProfilingEnabled>false</InteractionProfilingEnabled>
+      <IsLocalJavascript>false</IsLocalJavascript>
+      <LaunchProject>true</LaunchProject>
+      <OverrideProjectSettings>false</OverrideProjectSettings>
+      <LaunchMethod>Executable</LaunchMethod>
+      <StartupDirectory>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Release\</StartupDirectory>
+      <Arguments />
+      <NetAppHost>IIS</NetAppHost>
+      <NetBrowser>InternetExplorer</NetBrowser>
+      <ExcludeSmallFuncs>true</ExcludeSmallFuncs>
+      <JScriptProfilingEnabled>false</JScriptProfilingEnabled>
+      <PreinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PreinstrumentEvent>
+      <PostinstrumentEvent>
+        <InstrEventExclude>false</InstrEventExclude>
+      </PostinstrumentEvent>
+      <ProjRef>{2413F5EC-8F74-4329-B4E6-5960470F9DB1}|FinancialEngineering.Model\FinancialEngineering.Model.csproj</ProjRef>
+      <ProjPath>D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\FinancialEngineering.Model.csproj</ProjPath>
+      <ProjName>FinancialEngineering.Model</ProjName>
+    </ProjBinary>
+  </Binaries>
+  <Reports>
+    <Report>
+      <Path>D:\Herui_hx\PROJECT\TradeShark\GetStockPriceTest120308(1).vsp</Path>
+    </Report>
+  </Reports>
+  <Launches>
+    <TestBinary>
+      <Path>:TB:{b9732ad7-3d4b-88c2-1646-3162b1da1c0d}:GetStockPriceTest:{7C2F84B0-E598-4161-BD57-F8EE4D874BFE}|FinancialEngineering.Data.External.Test\FinancialEngineering.Data.External.Test.csproj</Path>
+    </TestBinary>
+  </Launches>
+  <RuntimeMarks>
+    <MarkName>Mark One</MarkName>
+    <MarkName>Mark Two</MarkName>
+    <MarkName>Mark Three</MarkName>
+    <MarkName>Mark Four</MarkName>
+    <MarkName>Mark Five</MarkName>
+    <MarkName>Mark Six</MarkName>
+    <MarkName>Mark Seven</MarkName>
+    <MarkName>Mark Eight</MarkName>
+    <MarkName>Mark Nine</MarkName>
+    <MarkName>Mark Ten</MarkName>
+  </RuntimeMarks>
+</VSPerformanceSession>
