@@ -11,3 +11,16 @@ D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting\bin\Debug\Financ
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.csprojResolveAssemblyReference.cache
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.dll
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.BackTesting.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.BackTesting.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Service.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Service.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting\obj\Debug\FinancialEngineering.BackTesting.pdb

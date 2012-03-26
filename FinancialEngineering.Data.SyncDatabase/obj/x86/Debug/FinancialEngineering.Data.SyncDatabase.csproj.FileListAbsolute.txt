@@ -1,0 +1,12 @@
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Data.SyncDatabase.exe.config
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Data.SyncDatabase.exe
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Data.SyncDatabase.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\obj\x86\Debug\FinancialEngineering.Data.SyncDatabase.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\obj\x86\Debug\FinancialEngineering.Data.SyncDatabase.exe
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.SyncDatabase\obj\x86\Debug\FinancialEngineering.Data.SyncDatabase.pdb

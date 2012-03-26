@@ -12,3 +12,10 @@ D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Deb
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.dll
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.pdb
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Data.ServiceContract\obj\Debug\FinancialEngineering.Data.ServiceContract.pdb

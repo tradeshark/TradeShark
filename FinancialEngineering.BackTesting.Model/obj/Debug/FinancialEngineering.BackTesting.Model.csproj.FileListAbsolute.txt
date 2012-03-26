@@ -2,3 +2,7 @@ D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\bin\Debug\
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\bin\Debug\FinancialEngineering.BackTesting.Model.pdb
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\obj\Debug\FinancialEngineering.BackTesting.Model.dll
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.BackTesting.Model\obj\Debug\FinancialEngineering.BackTesting.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Model\bin\Debug\FinancialEngineering.BackTesting.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Model\bin\Debug\FinancialEngineering.BackTesting.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Model\obj\Debug\FinancialEngineering.BackTesting.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Model\obj\Debug\FinancialEngineering.BackTesting.Model.pdb

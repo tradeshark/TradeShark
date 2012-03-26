@@ -72,6 +72,10 @@
       <Project>{FA83D313-C41A-4AD7-A2EF-ED7F2FD59792}</Project>
       <Name>FinancialEngineering.Data.ServiceContract</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FinancialEngineering.IndexCalulation\FinancialEngineering.IndexCalculation.csproj">
+      <Project>{9B464879-1553-48AF-A4E7-ECB39FD268DB}</Project>
+      <Name>FinancialEngineering.IndexCalculation</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FinancialEngineering.Model\FinancialEngineering.Model.csproj">
       <Project>{2413F5EC-8F74-4329-B4E6-5960470F9DB1}</Project>
       <Name>FinancialEngineering.Model</Name>
@@ -79,10 +83,6 @@
     <ProjectReference Include="..\System.Web.DataSets\System.Web.DataSets.csproj">
       <Project>{6DE4BA1C-F60F-41BB-864F-A42860225AF0}</Project>
       <Name>System.Web.DataSets</Name>
-    </ProjectReference>
-    <ProjectReference Include="D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\FinancialEngineering.IndexCalculation.csproj">
-      <Project>{9B464879-1553-48AF-A4E7-ECB39FD268DB}</Project>
-      <Name>FinancialEngineering.IndexCalculation</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
