@@ -1,0 +1,4 @@
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\bin\Release\FinancialEngineering.IndexCalculation.dll
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\bin\Release\FinancialEngineering.IndexCalculation.pdb
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\obj\Release\FinancialEngineering.IndexCalculation.dll
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\obj\Release\FinancialEngineering.IndexCalculation.pdb

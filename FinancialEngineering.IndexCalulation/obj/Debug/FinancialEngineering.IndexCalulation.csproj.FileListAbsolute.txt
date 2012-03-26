@@ -1,0 +1,5 @@
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\bin\Debug\FinancialEngineering.IndexCalulation.dll
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\bin\Debug\FinancialEngineering.IndexCalulation.pdb
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\obj\Debug\ResolveAssemblyReference.cache
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\obj\Debug\FinancialEngineering.IndexCalulation.dll
+D:\Herui_hx\Code\FinancialEngineering.IndexCalulation\obj\Debug\FinancialEngineering.IndexCalulation.pdb
