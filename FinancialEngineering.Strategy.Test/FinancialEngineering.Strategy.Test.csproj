@@ -69,10 +69,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Code\FinancialEngineering.IndexCalulation\FinancialEngineering.IndexCalculation.csproj">
-      <Project>{9B464879-1553-48AF-A4E7-ECB39FD268DB}</Project>
-      <Name>FinancialEngineering.IndexCalculation</Name>
-    </ProjectReference>
     <ProjectReference Include="..\FinancialEngineering.Data.DataBase\FinancialEngineering.Data.Database.csproj">
       <Project>{7D9EBC4D-B064-494A-8E05-3E362DE21582}</Project>
       <Name>FinancialEngineering.Data.Database</Name>

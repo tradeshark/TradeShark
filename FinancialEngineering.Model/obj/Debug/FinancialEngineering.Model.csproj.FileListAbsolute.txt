@@ -7,3 +7,7 @@ D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEng
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.pdb
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.dll
 D:\Herui_hx\PROJECT\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Model\obj\Debug\FinancialEngineering.Model.pdb

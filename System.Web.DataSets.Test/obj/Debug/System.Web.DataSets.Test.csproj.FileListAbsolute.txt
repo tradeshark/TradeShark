@@ -8,3 +8,13 @@ D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\obj\Debug\System.Web.Dat
 D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.Test.dll.config
 D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Debug\EntityFramework.dll
 D:\Herui_hx\PROJECT\TradeShark\System.Web.DataSets.Test\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.Test.dll.config
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\obj\Debug\System.Web.DataSets.Test.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\obj\Debug\System.Web.DataSets.Test.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\System.Web.DataSets.Test\obj\Debug\System.Web.DataSets.Test.pdb
