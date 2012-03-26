@@ -11,7 +11,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>..\..\Code\FinancialEngineering.IndexCalulation\bin\Release\FinancialEngineering.IndexCalculation.dll</Name>
+      <Name>..\..\..\Code\FinancialEngineering.IndexCalulation\bin\Debug\FinancialEngineering.IndexCalculation.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -21,7 +21,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Strategies\bin\Release\FinancialEngineering.Strategy.dll</Name>
+      <Name>FinancialEngineering.Strategies\bin\Debug\FinancialEngineering.Strategy.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -31,7 +31,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Model\bin\Release\FinancialEngineering.Model.dll</Name>
+      <Name>FinancialEngineering.Model\bin\Debug\FinancialEngineering.Model.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -41,7 +41,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.DataBase\bin\Release\FinancialEngineering.Data.Database.dll</Name>
+      <Name>FinancialEngineering.Data.DataBase\bin\Debug\FinancialEngineering.Data.Database.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -51,7 +51,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.External\bin\Release\FinancialEngineering.Service.dll</Name>
+      <Name>FinancialEngineering.Data.External\bin\Debug\FinancialEngineering.Service.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -61,7 +61,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.ServiceContract\bin\Release\FinancialEngineering.Data.ServiceContract.dll</Name>
+      <Name>FinancialEngineering.Data.ServiceContract\bin\Debug\FinancialEngineering.Data.ServiceContract.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -71,7 +71,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.Database.Test\bin\Release\FinancialEngineering.Data.Database.Test.dll</Name>
+      <Name>FinancialEngineering.Data.Database.Test\bin\Debug\FinancialEngineering.Data.Database.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -81,7 +81,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.IndexCalculation.MA\bin\Release\FinancialEngineering.IndexCalculation.Test.dll</Name>
+      <Name>FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -91,7 +91,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Strategy.Test\bin\Release\FinancialEngineering.Strategy.Test.dll</Name>
+      <Name>FinancialEngineering.Strategy.Test\bin\Debug\FinancialEngineering.Strategy.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -101,7 +101,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>System.Web.DataSets\bin\Release\System.Web.DataSets.dll</Name>
+      <Name>System.Web.DataSets\bin\Debug\System.Web.DataSets.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -111,7 +111,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>System.Web.DataSets.Test\bin\Release\System.Web.DataSets.Test.dll</Name>
+      <Name>System.Web.DataSets.Test\bin\Debug\System.Web.DataSets.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -121,7 +121,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Common\bin\Release\FinancialEngineering.Common.dll</Name>
+      <Name>FinancialEngineering.Common\bin\Debug\FinancialEngineering.Common.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -131,7 +131,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.External.Test\bin\Release\FinancialEngineering.Data.External.Test.dll</Name>
+      <Name>FinancialEngineering.Data.External.Test\bin\Debug\FinancialEngineering.Data.External.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -141,7 +141,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Notification\bin\Release\FinancialEngineering.Notification.dll</Name>
+      <Name>FinancialEngineering.Notification\bin\Debug\FinancialEngineering.Notification.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -151,7 +151,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>IBTMConsole\bin\Release\IBTMConsole.exe</Name>
+      <Name>IBTMConsole\bin\Debug\IBTMConsole.exe</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -161,7 +161,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.BackTesting\bin\Release\FinancialEngineering.BackTesting.dll</Name>
+      <Name>FinancialEngineering.BackTesting\bin\Debug\FinancialEngineering.BackTesting.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -171,7 +171,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.BackTesting.Storage\bin\Release\FinancialEngineering.BackTesting.Storage.dll</Name>
+      <Name>FinancialEngineering.BackTesting.Storage\bin\Debug\FinancialEngineering.BackTesting.Storage.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -181,7 +181,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.BackTesting.Model\bin\Release\FinancialEngineering.BackTesting.Model.dll</Name>
+      <Name>FinancialEngineering.BackTesting.Model\bin\Debug\FinancialEngineering.BackTesting.Model.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -191,7 +191,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.BackTesting.Storage.Test\bin\Release\FinancialEngineering.BackTesting.Storage.Test.dll</Name>
+      <Name>FinancialEngineering.BackTesting.Storage.Test\bin\Debug\FinancialEngineering.BackTesting.Storage.Test.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
       <Flags>VSProject</Flags>
@@ -201,7 +201,7 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>FinancialEngineering.Data.SyncDatabase\bin\Release\FinancialEngineering.Data.SyncDatabase.exe</Name>
+      <Name>FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Data.SyncDatabase.exe</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
   </AssemblyList>
   <SaveToDirectory>.\Spices_output</SaveToDirectory>
