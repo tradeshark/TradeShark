@@ -15,5 +15,14 @@ namespace System.Web.DataSets.Model
         public double? Low { get; set; }
         public double? Close { get; set; }
         public double? AdjustedClose { get; set; }
+        public override bool Equals(object obj)
+        {
+            if (obj.GetType() != typeof(StockPrice)) return false;
+            return this.InnerCode == ((StockPrice)obj).InnerCode;
+        }
+        public override int GetHashCode()
+        {
+            return InnerCode;
+        }
     }
 }

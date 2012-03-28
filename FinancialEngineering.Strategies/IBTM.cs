@@ -100,6 +100,12 @@ namespace FinancialEngineering.Strategy
     private  DateTime endDate = new DateTime(DateTime.Now.Year,DateTime.Now.Month,DateTime.Now.Day);
     private IEnumerable<IGrouping<int, StockPrice>> stockPrices;
 
+    public IEnumerable<IGrouping<int, StockPrice>> StockPrices
+    {
+        get { return stockPrices; }
+      
+    }
+
     public DateTime EndDate
     {
       get { return endDate; }
@@ -124,16 +130,17 @@ namespace FinancialEngineering.Strategy
         }
     }
 
-    public List<StockPrice> GetCandidateStocksForOpen()
+    public List<StockPrice> GetCandidateStocksForOpen(Func<IEnumerable<StockPrice>,IEnumerable<StockPrice>> customFilter = null)
     {
         var result = new List<StockPrice>();
-        foreach (var g in stockPrices)
+        IEnumerable<StockPrice> filtered = null;
+        foreach (var g in StockPrices)
         {
             if (g.Max(p => p.Tradingday) != endDate) continue;
             var ma = new MA(days);
             bolls.Clear();
             closeprice.Clear();
-            foreach (var p in g)
+            foreach (var p in g.ToArray())
             {
                 if (p.InnerCode == default(int) || p.Tradingday == default(DateTime)) break;
                 ma.AddSample(p.Close.Value);
@@ -156,6 +163,10 @@ namespace FinancialEngineering.Strategy
                         result.Add(c);
                     }
                 }
+                if (customFilter != null)
+                {
+                    filtered = customFilter(g);
+                }
             }
             catch (Exception e) 
             {
@@ -163,6 +174,7 @@ namespace FinancialEngineering.Strategy
             }
 
         }
+        if (filtered != null) return result.Except(filtered).ToList();
         return result;
     }
     public void GetCandidateStocksForClose()

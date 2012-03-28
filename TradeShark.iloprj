@@ -11,16 +11,6 @@
           </SoftwareWatermark>
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
-      <Name>..\..\..\Code\FinancialEngineering.IndexCalulation\bin\Debug\FinancialEngineering.IndexCalculation.dll</Name>
-    </NineRays.ILOMD.Options.AssemblyFileName>
-    <NineRays.ILOMD.Options.AssemblyFileName>
-      <Flags>VSProject</Flags>
-      <ObfuscationOptions>
-        <NineRays.ILOMD.Options.Options>
-          <SoftwareWatermark>
-          </SoftwareWatermark>
-        </NineRays.ILOMD.Options.Options>
-      </ObfuscationOptions>
       <Name>FinancialEngineering.Strategies\bin\Debug\FinancialEngineering.Strategy.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
     <NineRays.ILOMD.Options.AssemblyFileName>
@@ -202,6 +192,16 @@
         </NineRays.ILOMD.Options.Options>
       </ObfuscationOptions>
       <Name>FinancialEngineering.Data.SyncDatabase\bin\Debug\FinancialEngineering.Data.SyncDatabase.exe</Name>
+    </NineRays.ILOMD.Options.AssemblyFileName>
+    <NineRays.ILOMD.Options.AssemblyFileName>
+      <Flags>VSProject</Flags>
+      <ObfuscationOptions>
+        <NineRays.ILOMD.Options.Options>
+          <SoftwareWatermark>
+          </SoftwareWatermark>
+        </NineRays.ILOMD.Options.Options>
+      </ObfuscationOptions>
+      <Name>FinancialEngineering.IndexCalulation\bin\Debug\FinancialEngineering.IndexCalculation.dll</Name>
     </NineRays.ILOMD.Options.AssemblyFileName>
   </AssemblyList>
   <SaveToDirectory>.\Spices_output</SaveToDirectory>

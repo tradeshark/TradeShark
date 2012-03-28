@@ -10,6 +10,7 @@ using FinancialEngineering.Common.Utils;
 using System.Web.DataSets.Entities;
 using System.Data;
 using System.Data.SqlClient;
+using System.Web.DataSets.Model;
 
 
 namespace IBTMConsole
@@ -39,8 +40,31 @@ namespace IBTMConsole
             try
             {
                 IBTM target = new IBTM(20, dateFrom, 2, 0.00d); // TODO: Initialize to an appropriate value
+                var filtered = new List<StockPrice>();
+                Func<IEnumerable<StockPrice>, IEnumerable<StockPrice>> customFilter =  ps =>
+                {
+                    var lastest5DayPrice = ps.Reverse().Take(6);
+                    if (lastest5DayPrice == null) return filtered;
+                    var ps2 = lastest5DayPrice.ToArray();
+               
+                    var t = 0;
+                    if (ps2[0].Close < 1)  //剔除股价太低股票
+                    {
+                        filtered.Add(ps2[0]);
+                        return filtered;
+                    }
+                    for (int i = 0; i < ps2.Count() -1;i++)  //剔除下跌超过3日股票
+                    {
+                        if (ps2[i].Close - ps2[i + 1].Close < 0)
+                        {
+                            t++;
+                        }
+                    }
+                    if (t >= 3) filtered.Add(lastest5DayPrice.FirstOrDefault());
+                    return filtered;
+                };
 
-                var actual = target.GetCandidateStocksForOpen();
+                var actual = target.GetCandidateStocksForOpen(customFilter);
 
 
                 if (actual == null || actual.Count == 0)

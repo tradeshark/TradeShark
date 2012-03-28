@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="IBTM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StockPriceEqualityComparer.cs" />
     <Compile Include="StrategyBase.cs" />
   </ItemGroup>
   <ItemGroup>

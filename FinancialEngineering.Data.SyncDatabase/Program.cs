@@ -213,20 +213,31 @@ namespace FinancialEngineering.Data.SyncDatabase
         static void Main(string[] args)
         {
             var s = File.AppendText(@"C:\Users\Administrator\Desktop\Sync.txt");
-            var date = ":::" + DateTime.Now.ToShortDateString() + ":::   ";
+            var dateNow = DateTime.Now;
+            var date = ":::" + dateNow.ToShortDateString() + ":::   ";
             try
             {
                 var a = SyncTable<System.Web.DataSets.JYDBDataSet.QT_TradingDayNewDataTable>("QT_TradingDayNew");
                 s.WriteLine(date + "同步 QT_TradingDayNew:  " + a.ToString());
+                Console.WriteLine(date + "同步 QT_TradingDayNew:  " + a.ToString());
                 var b = SyncTable<System.Web.DataSets.JYDBDataSet.SecuMainDataTable>("SecuMain");
                 s.WriteLine(date + "同步 SecuMain:  " + b.ToString());
+                Console.WriteLine(date + "同步 SecuMain:  " + b.ToString());
                 var c = SyncTable<System.Web.DataSets.JYDBDataSet.QT_AdjustingFactorDataTable>("QT_AdjustingFactor");
                 s.WriteLine(date + "同步 QT_AdjustingFactor:  " + c.ToString());
-                var e = SyncQT_DaiyQuote(DateTime.Now, DateTime.Now);
+                Console.WriteLine(date + "同步 QT_AdjustingFactor:  " + c.ToString());
+                var e = SyncQT_DaiyQuote(dateNow, dateNow);
                 s.WriteLine(date + "同步 QT_DaiyQuote:  " + e.ToString());
+                Console.WriteLine(date + "同步 QT_DaiyQuote:  " + e.ToString());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine(e.StackTrace);
             }
             finally
             {
+                Console.WriteLine("同步完成");
                 s.Flush();
                 s.Dispose();
             }
