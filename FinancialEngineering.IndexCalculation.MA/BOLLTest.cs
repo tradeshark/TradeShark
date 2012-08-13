@@ -101,6 +101,7 @@ namespace FinancialEngineering.IndexCalculation.Test
             double actual;
             actual = target.MB;
             Assert.Inconclusive("Verify the correctness of this test method.");
+            
         }
 
         /// <summary>

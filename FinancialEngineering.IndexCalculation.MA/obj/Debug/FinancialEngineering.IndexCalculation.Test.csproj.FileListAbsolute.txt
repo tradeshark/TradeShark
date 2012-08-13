@@ -18,3 +18,10 @@ D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.dll
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.pdb
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\obj\Debug\FinancialEngineering.IndexCalculation.Test.csprojResolveAssemblyReference.cache
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.Test.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.Test.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.IndexCalculation.MA\bin\Debug\FinancialEngineering.IndexCalculation.Test.dll.config

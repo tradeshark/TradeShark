@@ -30,7 +30,7 @@ namespace FinancialEngineering.IndexCalculation
                 {
                     throw new ApplicationException("Number of samples is 0.");
                 }
-                if (Samples.Length != Count)
+                if (Samples.Length != Length)
                 {
                     throw new ApplicationException("Not Enough Data To Calculate Moving Average");
                 }
@@ -64,7 +64,7 @@ namespace FinancialEngineering.IndexCalculation
      
         public bool IsFull
         {
-            get { return Samples.Count == Count; }
+            get { return Samples.Count == Length; }
          
         }
         
@@ -77,10 +77,8 @@ namespace FinancialEngineering.IndexCalculation
             {
                 total -= Samples.Value;
             }
-
-            Samples.Value = val;
             total += val;
-            Samples.Next();
+            Samples.Add(val);
         }
 
         public void AddRange(IEnumerable<double> samples)
@@ -104,7 +102,7 @@ namespace FinancialEngineering.IndexCalculation
 
         private int count;
 
-        public int Count
+        public int Length
         {
             get { return count; }
             set { count = value; }

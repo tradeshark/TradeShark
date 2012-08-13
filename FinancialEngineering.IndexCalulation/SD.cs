@@ -61,7 +61,7 @@ namespace FinancialEngineering.IndexCalculation
         {
             this.movingAverage = ma;
             this.samples = ma.Samples;
-            this.Count = ma.Count;
+            this.Count = ma.Length;
             
         }
        

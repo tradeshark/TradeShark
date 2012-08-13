@@ -9,8 +9,7 @@ namespace FinancialEngineering.IndexCalculation
 	public interface IMovingAverage 
 	{
         CircularList<double> Samples { get; set; }
-        int Count { get; set; }
-      
+        int Length { get; set; }     
         void AddSample(double val);
         void ClearSamples();
         void AddRange(IEnumerable<double> samples);
