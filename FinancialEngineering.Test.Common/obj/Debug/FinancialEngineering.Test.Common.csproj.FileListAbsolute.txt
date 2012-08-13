@@ -1,0 +1,8 @@
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\FinancialEngineering.Test.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\FinancialEngineering.Test.Common.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\System.Web.DataSets.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\EntityFramework.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\System.Web.DataSets.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\bin\Debug\EntityFramework.xml
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\obj\Debug\FinancialEngineering.Test.Common.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.Test.Common\obj\Debug\FinancialEngineering.Test.Common.pdb

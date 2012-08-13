@@ -91,7 +91,15 @@ namespace FinancialEngineering.IndexCalculation.Test
             target.AddRange(sampleData);
             Assert.AreEqual(expectedSampleDataMA, Math.Round(target.Value,2));
 
-            
+            target.AddSample(5);
+            Assert.AreEqual(20.45, Math.Round(target.Value, 2));
+            target.AddSample(3);
+            Assert.AreEqual(20.24, Math.Round(target.Value, 2));
+            var s = "";
+            foreach (var v in target.Samples)
+            {
+                s += v.ToString() + ",";
+            }
         }
         /// <summary>
         ///A test for AddSample

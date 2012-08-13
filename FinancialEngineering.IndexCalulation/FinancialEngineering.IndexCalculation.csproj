@@ -57,10 +57,12 @@
   <ItemGroup>
     <Compile Include="BBI.cs" />
     <Compile Include="BOLL.cs" />
+    <Compile Include="EMA.cs" />
+    <Compile Include="Exception\IndexCalculationException.cs" />
     <Compile Include="Generic\CircularList.cs" />
-    <Compile Include="Generic\EntityQuote.generic.cs" />
     <Compile Include="IMovingAverage.cs" />
     <Compile Include="IndexBase.cs" />
+    <Compile Include="MACD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MA.cs" />
     <Compile Include="SD.cs" />

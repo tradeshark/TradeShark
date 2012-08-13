@@ -22,3 +22,5 @@ D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Stora
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Storage.Test\obj\Debug\FinancialEngineering.BackTesting.Storage.Test.csprojResolveAssemblyReference.cache
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Storage.Test\obj\Debug\FinancialEngineering.BackTesting.Storage.Test.dll
 D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Storage.Test\obj\Debug\FinancialEngineering.BackTesting.Storage.Test.pdb
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Storage.Test\bin\Debug\FinancialEngineering.IndexCalculation.dll
+D:\Herui_hx\PROJECT\TradeShark\TradeShark\FinancialEngineering.BackTesting.Storage.Test\bin\Debug\FinancialEngineering.IndexCalculation.pdb

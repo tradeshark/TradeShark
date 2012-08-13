@@ -41,6 +41,7 @@ namespace FinancialEngineering.IndexCalculation.Generic
 		protected int idx;
 		protected bool loaded;
 		protected int enumIdx;
+        protected int enumInxCount;
 
 		/// <summary>
 		/// Constructor that initializes the list with the 
@@ -57,6 +58,7 @@ namespace FinancialEngineering.IndexCalculation.Generic
 			idx = 0;
 			loaded = false;
 			enumIdx = -1;
+            enumInxCount = -1;
 		}
 
 		/// <summary>
@@ -101,12 +103,12 @@ namespace FinancialEngineering.IndexCalculation.Generic
 			get 
 			{
 				RangeCheck(index);
-				return items[index]; 
+				return items[(index + idx) % Count]; 
 			}
 			set 
 			{
 				RangeCheck(index);
-				items[index] = value;
+				items[(index + idx) % Count] = value;
 			}
 		}
 
@@ -120,7 +122,13 @@ namespace FinancialEngineering.IndexCalculation.Generic
 				idx = 0;
 				loaded = true;
 			}
+            enumIdx = idx - 1;
 		}
+        public void Add(T v)
+        {
+            this.Value = v;
+            this.Next();
+        }
 
 		/// <summary>
 		/// Clears the list, resetting the current index to the 
@@ -148,7 +156,13 @@ namespace FinancialEngineering.IndexCalculation.Generic
 				items[i] = val;
 			}
 		}
-
+        public bool IsFull
+        {
+            get
+            {
+                return this.loaded;
+            }
+        }
 		/// <summary>
 		/// Internal indexer range check helper.  Throws
 		/// ArgumentOutOfRange exception if the index is not valid.
@@ -180,7 +194,7 @@ namespace FinancialEngineering.IndexCalculation.Generic
 
 		public T Current
 		{
-			get { return this[enumIdx]; }
+			get { return items[enumIdx]; }
 		}
 
 		public void Dispose()
@@ -195,8 +209,10 @@ namespace FinancialEngineering.IndexCalculation.Generic
 
 		public bool MoveNext()
 		{
-			++enumIdx;
-			bool ret = enumIdx < Count;
+            if (Count == 0) return false;
+            enumIdx = (++enumIdx) % Count;
+
+            bool ret = ++enumInxCount < Count;
 
 			if (!ret)
 			{
@@ -208,7 +224,8 @@ namespace FinancialEngineering.IndexCalculation.Generic
 
 		public void Reset()
 		{
-			enumIdx = -1;
+            enumInxCount = -1;
+            enumIdx = idx - 1;
 		}
 	}
 }

@@ -11,6 +11,7 @@ using System.Web.DataSets.Entities;
 using System.Data;
 using System.Data.SqlClient;
 using System.Web.DataSets.Model;
+using System.Threading.Tasks;
 
 
 namespace IBTMConsole
@@ -18,7 +19,6 @@ namespace IBTMConsole
     class Program
     {
 
-       
         static void CalcHistoryIBTM()
         {
         
@@ -28,12 +28,12 @@ namespace IBTMConsole
         static void Main(string[] args)
         {
            
-            CalcTodayIBTM();
+                var dateFrom = DateTime.Now;
+                CalcTodayIBTM(dateFrom);
         }
 
-        private static void CalcTodayIBTM()
+        private static void CalcTodayIBTM(DateTime dateFrom)
         {
-            var dateFrom = DateTime.Now;
             var s = File.AppendText(@"C:\Users\Administrator\Desktop\IBTM.txt");
             TradeSharkContext context = new TradeSharkContext("TradeShark"); // TODO: Initialize to an appropriate value
             var strategy = context.Strategies.Where(sg => sg.Id == 1).First();
@@ -53,7 +53,7 @@ namespace IBTMConsole
                         filtered.Add(ps2[0]);
                         return filtered;
                     }
-                    for (int i = 0; i < ps2.Count() -1;i++)  //剔除下跌超过3日股票
+                    for (int i = 0; i < ps2.Count() - 1; i++)  //剔除下跌超过3日股票
                     {
                         if (ps2[i].Close - ps2[i + 1].Close < 0)
                         {

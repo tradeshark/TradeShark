@@ -1,0 +1,111 @@
+using System;
+using System.Collections.Generic;
+
+namespace FinancialEngineering.Data.Database.Entities
+{
+	public class HK_ShareIPO
+	{
+		public long ID { get; set; }
+		public int InnerCode { get; set; }
+		public Nullable<System.DateTime> InitialInfoPublDate { get; set; }
+		public Nullable<int> Process { get; set; }
+		public Nullable<System.DateTime> BDDecisionPublDate { get; set; }
+		public Nullable<System.DateTime> BDDecisionSignDate { get; set; }
+		public Nullable<System.DateTime> SMDeciPublDate { get; set; }
+		public Nullable<System.DateTime> ProspectusPublDate { get; set; }
+		public Nullable<System.DateTime> ContractSignDate { get; set; }
+		public Nullable<System.DateTime> AbortPublDate { get; set; }
+		public Nullable<int> IssueType { get; set; }
+		public Nullable<int> IssueMethod { get; set; }
+		public Nullable<int> IssueObject { get; set; }
+		public Nullable<int> CurrencyUnit { get; set; }
+		public Nullable<decimal> ParValue { get; set; }
+		public Nullable<int> TradeUnit { get; set; }
+		public Nullable<int> IssuePriceCurrencyUnit { get; set; }
+		public Nullable<int> UnderwritingMode { get; set; }
+		public Nullable<int> RationModel { get; set; }
+		public Nullable<decimal> IssueVolPlanned { get; set; }
+		public Nullable<decimal> NewShareVolPlanned { get; set; }
+		public Nullable<decimal> StoreShareVolPlanned { get; set; }
+		public Nullable<decimal> QualifiedSHAllotmentPlanned { get; set; }
+		public Nullable<decimal> PublicNewSharePlanned { get; set; }
+		public Nullable<decimal> PublicStoreSharePlanned { get; set; }
+		public Nullable<decimal> StaffPriorAllotmentPlanned { get; set; }
+		public Nullable<decimal> OverAllotmentOptionPlanned { get; set; }
+		public Nullable<decimal> IssuePriceCeiling { get; set; }
+		public Nullable<decimal> IssuePriceFloor { get; set; }
+		public Nullable<decimal> TradeUnitPriceAtCeiling { get; set; }
+		public Nullable<int> ReferrencePrice { get; set; }
+		public Nullable<decimal> ProceedsPlanned { get; set; }
+		public Nullable<decimal> NetProceedsPlanned { get; set; }
+		public Nullable<decimal> OverAllotmentProceedsPlanned { get; set; }
+		public Nullable<decimal> IssueCostPlanned { get; set; }
+		public Nullable<decimal> CommisionRatio { get; set; }
+		public Nullable<System.DateTime> IssueExpireDate { get; set; }
+		public Nullable<System.DateTime> LastTradeDate { get; set; }
+		public Nullable<System.DateTime> ExDiviDate { get; set; }
+		public Nullable<System.DateTime> RightRegDate { get; set; }
+		public Nullable<System.DateTime> TransferEndFirstDate { get; set; }
+		public Nullable<System.DateTime> TransferEndLastDate { get; set; }
+		public Nullable<System.DateTime> PayEndDate { get; set; }
+		public Nullable<System.DateTime> IssueEndDate { get; set; }
+		public Nullable<System.DateTime> DateToAccount { get; set; }
+		public Nullable<System.DateTime> RefundmentOutDate { get; set; }
+		public Nullable<System.DateTime> IssueComplishmentDate { get; set; }
+		public Nullable<System.DateTime> ProposedListDate { get; set; }
+		public Nullable<System.DateTime> OverAllotmentProposedListDate { get; set; }
+		public Nullable<System.DateTime> IssueResultPublDate { get; set; }
+		public Nullable<System.DateTime> OverAllotmentOptionExpireDate { get; set; }
+		public Nullable<int> OfferRatioX { get; set; }
+		public Nullable<int> OfferRatioY { get; set; }
+		public Nullable<int> IssueBase { get; set; }
+		public Nullable<decimal> IssueBaseShares { get; set; }
+		public Nullable<decimal> IssueVol { get; set; }
+		public Nullable<decimal> RatioInPriShare { get; set; }
+		public Nullable<decimal> RatioInPostShare { get; set; }
+		public Nullable<decimal> NewShareVol { get; set; }
+		public Nullable<decimal> StoreShareAllotment { get; set; }
+		public Nullable<decimal> QualifiedSHPriorAllotment { get; set; }
+		public Nullable<decimal> PublicOfferedNewShare { get; set; }
+		public Nullable<decimal> PublicOfferedStoreShare { get; set; }
+		public Nullable<decimal> StaffPriorAllotment { get; set; }
+		public Nullable<decimal> OverAllotmentOption { get; set; }
+		public Nullable<decimal> OverAllotmentNewShare { get; set; }
+		public Nullable<decimal> OverAllotmentStoreShare { get; set; }
+		public Nullable<decimal> IssuePrice { get; set; }
+		public Nullable<decimal> TotalProceeds { get; set; }
+		public Nullable<decimal> NetProceeds { get; set; }
+		public Nullable<decimal> OverAllotmentProceeds { get; set; }
+		public Nullable<decimal> OverAllotmentNetProceeds { get; set; }
+		public Nullable<decimal> PubApplyUnit { get; set; }
+		public Nullable<decimal> PubApplyShares { get; set; }
+		public Nullable<decimal> PubApplyMultiple { get; set; }
+		public Nullable<decimal> StaffApplyUnit { get; set; }
+		public Nullable<decimal> StaffApplyShares { get; set; }
+		public Nullable<decimal> StaffApplyMultiple { get; set; }
+		public Nullable<decimal> AllotmentApplyUnits { get; set; }
+		public Nullable<decimal> AllotmentApplyShares { get; set; }
+		public Nullable<decimal> AllotmentApplyMultiple { get; set; }
+		public Nullable<decimal> QualifiedSHApplyUnits { get; set; }
+		public Nullable<decimal> QualifiedSHApplyShares { get; set; }
+		public Nullable<decimal> QualifiedSHApplyMultiple { get; set; }
+		public Nullable<decimal> ValidApplyShares { get; set; }
+		public Nullable<decimal> ValidApplyAllotmentShares { get; set; }
+		public Nullable<decimal> ValidApplyOverAllotmentShares { get; set; }
+		public Nullable<decimal> IrrevocableUndertakingShares { get; set; }
+		public Nullable<decimal> SubscribeRemainShares { get; set; }
+		public Nullable<decimal> UnderwriterBoughtVol { get; set; }
+		public Nullable<int> UnderwriterNumber { get; set; }
+		public Nullable<decimal> FirstUnderwriterAllotment { get; set; }
+		public Nullable<decimal> First5UnderwritersAllotment { get; set; }
+		public Nullable<decimal> First10UnderwritersAllotment { get; set; }
+		public Nullable<decimal> First15UnderwritersAllotment { get; set; }
+		public Nullable<decimal> First20UnderwritersAllotment { get; set; }
+		public Nullable<decimal> First25UnderwritersAllotment { get; set; }
+		public Nullable<decimal> RelativeAllotment { get; set; }
+		public string Stetement { get; set; }
+		public System.DateTime XGRQ { get; set; }
+		public long JSID { get; set; }
+	}
+}
+
